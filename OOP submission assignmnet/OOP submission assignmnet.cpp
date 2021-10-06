@@ -8,35 +8,21 @@ public:
 	string Height;
 	string weight;
 };
+
+void myFunction() {
+	cout << "The dog is sitting \n";
+	cout << "The dog is shaking \n";
+	cout << "The dog is laying down";
+
+}
 int main() {
 	dog dogObj;
 	dogObj.Breed = "Hound";
 	dogObj.Color = "brown";
 	dogObj.Height = "2 feet";
 	dogObj.weight = "60 lbs";
-
-
-
-}
-class canine : public dog {
-public:
-	string x;
-	string y;
-	string z;
-
-
-};
-string canine()
-{
-	return string();
+	myFunction();
 }
 
-string canine(); {
-	canine canineobj;
-	canineobj.x = "sit";
-	canineobj.y = "shake";
-	canineobj.z = "laydown";
-
-}
 
 
