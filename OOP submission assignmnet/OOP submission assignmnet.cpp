@@ -25,6 +25,8 @@ int main() {
 	dogObj.Height = "2 feet";
 	dogObj.weight = "60 lbs";
 	
+  myFunction();
+  
 }
 
 
