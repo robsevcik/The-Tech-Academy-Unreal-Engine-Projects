@@ -1,3 +1,2 @@
 ﻿  OOP submission assignmnet.cpp
-C:\Users\chefr\source\repos\OOP submission assignmnet\OOP submission assignmnet.cpp(28,9): warning C4930: 'std::string myFunction(void)': prototyped function not called (was a variable definition intended?)
   OOP submission assignmnet.vcxproj -> C:\Users\chefr\source\repos\OOP submission assignmnet\Debug\OOP submission assignmnet.exe
